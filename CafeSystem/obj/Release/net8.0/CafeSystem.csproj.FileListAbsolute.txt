@@ -1,0 +1,29 @@
+C:\Users\shams\OneDrive\سطح المكتب\C# Mini Projects\CafeSystem\bin\Release\net8.0\CafeSystem.exe
+C:\Users\shams\OneDrive\سطح المكتب\C# Mini Projects\CafeSystem\bin\Release\net8.0\CafeSystem.deps.json
+C:\Users\shams\OneDrive\سطح المكتب\C# Mini Projects\CafeSystem\bin\Release\net8.0\CafeSystem.runtimeconfig.json
+C:\Users\shams\OneDrive\سطح المكتب\C# Mini Projects\CafeSystem\bin\Release\net8.0\CafeSystem.dll
+C:\Users\shams\OneDrive\سطح المكتب\C# Mini Projects\CafeSystem\bin\Release\net8.0\CafeSystem.pdb
+C:\Users\shams\OneDrive\سطح المكتب\C# Mini Projects\CafeSystem\obj\Release\net8.0\CafeSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shams\OneDrive\سطح المكتب\C# Mini Projects\CafeSystem\obj\Release\net8.0\CafeSystem.AssemblyInfoInputs.cache
+C:\Users\shams\OneDrive\سطح المكتب\C# Mini Projects\CafeSystem\obj\Release\net8.0\CafeSystem.AssemblyInfo.cs
+C:\Users\shams\OneDrive\سطح المكتب\C# Mini Projects\CafeSystem\obj\Release\net8.0\CafeSystem.csproj.CoreCompileInputs.cache
+C:\Users\shams\OneDrive\سطح المكتب\C# Mini Projects\CafeSystem\obj\Release\net8.0\CafeSystem.sourcelink.json
+C:\Users\shams\OneDrive\سطح المكتب\C# Mini Projects\CafeSystem\obj\Release\net8.0\CafeSystem.dll
+C:\Users\shams\OneDrive\سطح المكتب\C# Mini Projects\CafeSystem\obj\Release\net8.0\refint\CafeSystem.dll
+C:\Users\shams\OneDrive\سطح المكتب\C# Mini Projects\CafeSystem\obj\Release\net8.0\CafeSystem.pdb
+C:\Users\shams\OneDrive\سطح المكتب\C# Mini Projects\CafeSystem\obj\Release\net8.0\CafeSystem.genruntimeconfig.cache
+C:\Users\shams\OneDrive\سطح المكتب\C# Mini Projects\CafeSystem\obj\Release\net8.0\ref\CafeSystem.dll
+Z:\CafeSystem\bin\Release\net8.0\CafeSystem.exe
+Z:\CafeSystem\bin\Release\net8.0\CafeSystem.deps.json
+Z:\CafeSystem\bin\Release\net8.0\CafeSystem.runtimeconfig.json
+Z:\CafeSystem\bin\Release\net8.0\CafeSystem.dll
+Z:\CafeSystem\bin\Release\net8.0\CafeSystem.pdb
+Z:\CafeSystem\obj\Release\net8.0\CafeSystem.GeneratedMSBuildEditorConfig.editorconfig
+Z:\CafeSystem\obj\Release\net8.0\CafeSystem.AssemblyInfoInputs.cache
+Z:\CafeSystem\obj\Release\net8.0\CafeSystem.AssemblyInfo.cs
+Z:\CafeSystem\obj\Release\net8.0\CafeSystem.csproj.CoreCompileInputs.cache
+Z:\CafeSystem\obj\Release\net8.0\CafeSystem.dll
+Z:\CafeSystem\obj\Release\net8.0\refint\CafeSystem.dll
+Z:\CafeSystem\obj\Release\net8.0\CafeSystem.pdb
+Z:\CafeSystem\obj\Release\net8.0\CafeSystem.genruntimeconfig.cache
+Z:\CafeSystem\obj\Release\net8.0\ref\CafeSystem.dll

@@ -1,0 +1,29 @@
+Z:\CafeSystem\bin\Release\net8.0-windows\CafeSystem.exe
+Z:\CafeSystem\bin\Release\net8.0-windows\CafeSystem.deps.json
+Z:\CafeSystem\bin\Release\net8.0-windows\CafeSystem.runtimeconfig.json
+Z:\CafeSystem\bin\Release\net8.0-windows\CafeSystem.dll
+Z:\CafeSystem\bin\Release\net8.0-windows\CafeSystem.pdb
+Z:\CafeSystem\obj\Release\net8.0-windows\CafeSystem.GeneratedMSBuildEditorConfig.editorconfig
+Z:\CafeSystem\obj\Release\net8.0-windows\CafeSystem.AssemblyInfoInputs.cache
+Z:\CafeSystem\obj\Release\net8.0-windows\CafeSystem.AssemblyInfo.cs
+Z:\CafeSystem\obj\Release\net8.0-windows\CafeSystem.csproj.CoreCompileInputs.cache
+Z:\CafeSystem\obj\Release\net8.0-windows\CafeSystem.dll
+Z:\CafeSystem\obj\Release\net8.0-windows\refint\CafeSystem.dll
+Z:\CafeSystem\obj\Release\net8.0-windows\CafeSystem.pdb
+Z:\CafeSystem\obj\Release\net8.0-windows\CafeSystem.genruntimeconfig.cache
+Z:\CafeSystem\obj\Release\net8.0-windows\ref\CafeSystem.dll
+C:\Users\shams\OneDrive\سطح المكتب\C# Mini Projects\CafeSystem (1)\CafeSystem\bin\Release\net8.0-windows\CafeSystem.exe
+C:\Users\shams\OneDrive\سطح المكتب\C# Mini Projects\CafeSystem (1)\CafeSystem\bin\Release\net8.0-windows\CafeSystem.deps.json
+C:\Users\shams\OneDrive\سطح المكتب\C# Mini Projects\CafeSystem (1)\CafeSystem\bin\Release\net8.0-windows\CafeSystem.runtimeconfig.json
+C:\Users\shams\OneDrive\سطح المكتب\C# Mini Projects\CafeSystem (1)\CafeSystem\bin\Release\net8.0-windows\CafeSystem.dll
+C:\Users\shams\OneDrive\سطح المكتب\C# Mini Projects\CafeSystem (1)\CafeSystem\bin\Release\net8.0-windows\CafeSystem.pdb
+C:\Users\shams\OneDrive\سطح المكتب\C# Mini Projects\CafeSystem (1)\CafeSystem\obj\Release\net8.0-windows\CafeSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shams\OneDrive\سطح المكتب\C# Mini Projects\CafeSystem (1)\CafeSystem\obj\Release\net8.0-windows\CafeSystem.AssemblyInfoInputs.cache
+C:\Users\shams\OneDrive\سطح المكتب\C# Mini Projects\CafeSystem (1)\CafeSystem\obj\Release\net8.0-windows\CafeSystem.AssemblyInfo.cs
+C:\Users\shams\OneDrive\سطح المكتب\C# Mini Projects\CafeSystem (1)\CafeSystem\obj\Release\net8.0-windows\CafeSystem.csproj.CoreCompileInputs.cache
+C:\Users\shams\OneDrive\سطح المكتب\C# Mini Projects\CafeSystem (1)\CafeSystem\obj\Release\net8.0-windows\CafeSystem.sourcelink.json
+C:\Users\shams\OneDrive\سطح المكتب\C# Mini Projects\CafeSystem (1)\CafeSystem\obj\Release\net8.0-windows\CafeSystem.dll
+C:\Users\shams\OneDrive\سطح المكتب\C# Mini Projects\CafeSystem (1)\CafeSystem\obj\Release\net8.0-windows\refint\CafeSystem.dll
+C:\Users\shams\OneDrive\سطح المكتب\C# Mini Projects\CafeSystem (1)\CafeSystem\obj\Release\net8.0-windows\CafeSystem.pdb
+C:\Users\shams\OneDrive\سطح المكتب\C# Mini Projects\CafeSystem (1)\CafeSystem\obj\Release\net8.0-windows\CafeSystem.genruntimeconfig.cache
+C:\Users\shams\OneDrive\سطح المكتب\C# Mini Projects\CafeSystem (1)\CafeSystem\obj\Release\net8.0-windows\ref\CafeSystem.dll

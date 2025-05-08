@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shams\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\C# Mini Projects\\CafeSystem (1)\\CafeSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32D8A167-8D83-45B4-8EE7-CD50B0B154E7}|CafeSystem.csproj|c:\\users\\shams\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\c# mini projects\\cafesystem (1)\\cafesystem\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32D8A167-8D83-45B4-8EE7-CD50B0B154E7}|CafeSystem.csproj|solutionrelative:menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D8A167-8D83-45B4-8EE7-CD50B0B154E7}|CafeSystem.csproj|c:\\users\\shams\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\c# mini projects\\cafesystem (1)\\cafesystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32D8A167-8D83-45B4-8EE7-CD50B0B154E7}|CafeSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D8A167-8D83-45B4-8EE7-CD50B0B154E7}|CafeSystem.csproj|c:\\users\\shams\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\c# mini projects\\cafesystem (1)\\cafesystem\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32D8A167-8D83-45B4-8EE7-CD50B0B154E7}|CafeSystem.csproj|solutionrelative:customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D8A167-8D83-45B4-8EE7-CD50B0B154E7}|CafeSystem.csproj|c:\\users\\shams\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\c# mini projects\\cafesystem (1)\\cafesystem\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32D8A167-8D83-45B4-8EE7-CD50B0B154E7}|CafeSystem.csproj|solutionrelative:order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D8A167-8D83-45B4-8EE7-CD50B0B154E7}|CafeSystem.csproj|c:\\users\\shams\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\c# mini projects\\cafesystem (1)\\cafesystem\\colddrink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32D8A167-8D83-45B4-8EE7-CD50B0B154E7}|CafeSystem.csproj|solutionrelative:colddrink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D8A167-8D83-45B4-8EE7-CD50B0B154E7}|CafeSystem.csproj|c:\\users\\shams\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\c# mini projects\\cafesystem (1)\\cafesystem\\hotdrink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32D8A167-8D83-45B4-8EE7-CD50B0B154E7}|CafeSystem.csproj|solutionrelative:hotdrink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D8A167-8D83-45B4-8EE7-CD50B0B154E7}|CafeSystem.csproj|c:\\users\\shams\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\c# mini projects\\cafesystem (1)\\cafesystem\\drink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32D8A167-8D83-45B4-8EE7-CD50B0B154E7}|CafeSystem.csproj|solutionrelative:drink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\shams\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\C# Mini Projects\\CafeSystem (1)\\CafeSystem\\Customer.cs",
+              "RelativeDocumentMoniker": "Customer.cs",
+              "ToolTip": "C:\\Users\\shams\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\C# Mini Projects\\CafeSystem (1)\\CafeSystem\\Customer.cs",
+              "RelativeToolTip": "Customer.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAlwCgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T17:00:13.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\shams\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\C# Mini Projects\\CafeSystem (1)\\CafeSystem\\Order.cs",
+              "RelativeDocumentMoniker": "Order.cs",
+              "ToolTip": "C:\\Users\\shams\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\C# Mini Projects\\CafeSystem (1)\\CafeSystem\\Order.cs",
+              "RelativeToolTip": "Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T15:50:31.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ColdDrink.cs",
+              "DocumentMoniker": "C:\\Users\\shams\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\C# Mini Projects\\CafeSystem (1)\\CafeSystem\\ColdDrink.cs",
+              "RelativeDocumentMoniker": "ColdDrink.cs",
+              "ToolTip": "C:\\Users\\shams\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\C# Mini Projects\\CafeSystem (1)\\CafeSystem\\ColdDrink.cs",
+              "RelativeToolTip": "ColdDrink.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T15:48:23.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HotDrink.cs",
+              "DocumentMoniker": "C:\\Users\\shams\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\C# Mini Projects\\CafeSystem (1)\\CafeSystem\\HotDrink.cs",
+              "RelativeDocumentMoniker": "HotDrink.cs",
+              "ToolTip": "C:\\Users\\shams\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\C# Mini Projects\\CafeSystem (1)\\CafeSystem\\HotDrink.cs",
+              "RelativeToolTip": "HotDrink.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T15:48:21.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Drink.cs",
+              "DocumentMoniker": "C:\\Users\\shams\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\C# Mini Projects\\CafeSystem (1)\\CafeSystem\\Drink.cs",
+              "RelativeDocumentMoniker": "Drink.cs",
+              "ToolTip": "C:\\Users\\shams\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\C# Mini Projects\\CafeSystem (1)\\CafeSystem\\Drink.cs",
+              "RelativeToolTip": "Drink.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T15:42:04.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\shams\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\C# Mini Projects\\CafeSystem (1)\\CafeSystem\\Menu.cs",
+              "RelativeDocumentMoniker": "Menu.cs",
+              "ToolTip": "C:\\Users\\shams\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\C# Mini Projects\\CafeSystem (1)\\CafeSystem\\Menu.cs",
+              "RelativeToolTip": "Menu.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAC4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T15:17:03.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shams\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\C# Mini Projects\\CafeSystem (1)\\CafeSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\shams\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\C# Mini Projects\\CafeSystem (1)\\CafeSystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T14:59:51.393Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
