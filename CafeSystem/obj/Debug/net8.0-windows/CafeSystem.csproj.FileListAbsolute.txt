@@ -13,3 +13,18 @@ C:\Users\shams\OneDrive\سطح المكتب\C# Mini Projects\CafeSystem (1)\Cafe
 C:\Users\shams\OneDrive\سطح المكتب\C# Mini Projects\CafeSystem (1)\CafeSystem\obj\Debug\net8.0-windows\CafeSystem.pdb
 C:\Users\shams\OneDrive\سطح المكتب\C# Mini Projects\CafeSystem (1)\CafeSystem\obj\Debug\net8.0-windows\CafeSystem.genruntimeconfig.cache
 C:\Users\shams\OneDrive\سطح المكتب\C# Mini Projects\CafeSystem (1)\CafeSystem\obj\Debug\net8.0-windows\ref\CafeSystem.dll
+C:\Users\shams\OneDrive\سطح المكتب\OOP_matrial\CafeSystem (1)\CafeSystem\bin\Debug\net8.0-windows\CafeSystem.exe
+C:\Users\shams\OneDrive\سطح المكتب\OOP_matrial\CafeSystem (1)\CafeSystem\bin\Debug\net8.0-windows\CafeSystem.deps.json
+C:\Users\shams\OneDrive\سطح المكتب\OOP_matrial\CafeSystem (1)\CafeSystem\bin\Debug\net8.0-windows\CafeSystem.runtimeconfig.json
+C:\Users\shams\OneDrive\سطح المكتب\OOP_matrial\CafeSystem (1)\CafeSystem\bin\Debug\net8.0-windows\CafeSystem.dll
+C:\Users\shams\OneDrive\سطح المكتب\OOP_matrial\CafeSystem (1)\CafeSystem\bin\Debug\net8.0-windows\CafeSystem.pdb
+C:\Users\shams\OneDrive\سطح المكتب\OOP_matrial\CafeSystem (1)\CafeSystem\obj\Debug\net8.0-windows\CafeSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shams\OneDrive\سطح المكتب\OOP_matrial\CafeSystem (1)\CafeSystem\obj\Debug\net8.0-windows\CafeSystem.AssemblyInfoInputs.cache
+C:\Users\shams\OneDrive\سطح المكتب\OOP_matrial\CafeSystem (1)\CafeSystem\obj\Debug\net8.0-windows\CafeSystem.AssemblyInfo.cs
+C:\Users\shams\OneDrive\سطح المكتب\OOP_matrial\CafeSystem (1)\CafeSystem\obj\Debug\net8.0-windows\CafeSystem.csproj.CoreCompileInputs.cache
+C:\Users\shams\OneDrive\سطح المكتب\OOP_matrial\CafeSystem (1)\CafeSystem\obj\Debug\net8.0-windows\CafeSystem.sourcelink.json
+C:\Users\shams\OneDrive\سطح المكتب\OOP_matrial\CafeSystem (1)\CafeSystem\obj\Debug\net8.0-windows\CafeSystem.dll
+C:\Users\shams\OneDrive\سطح المكتب\OOP_matrial\CafeSystem (1)\CafeSystem\obj\Debug\net8.0-windows\refint\CafeSystem.dll
+C:\Users\shams\OneDrive\سطح المكتب\OOP_matrial\CafeSystem (1)\CafeSystem\obj\Debug\net8.0-windows\CafeSystem.pdb
+C:\Users\shams\OneDrive\سطح المكتب\OOP_matrial\CafeSystem (1)\CafeSystem\obj\Debug\net8.0-windows\CafeSystem.genruntimeconfig.cache
+C:\Users\shams\OneDrive\سطح المكتب\OOP_matrial\CafeSystem (1)\CafeSystem\obj\Debug\net8.0-windows\ref\CafeSystem.dll
